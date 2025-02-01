@@ -14,7 +14,8 @@ Elevenlabs para imagens
 Baseado no quanto o curso despertou meu interesse em saber cada vez mais sobre IA e linguagens de codigos
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+nao consegui anexar arquivos
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
